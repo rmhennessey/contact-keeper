@@ -1,0 +1,10 @@
+{
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "prettier.jsxBracketSameLine": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.proseWrap": "always",
+  "prettier.singleQuote": true,
+  "prettier.useTabs": true
+}
